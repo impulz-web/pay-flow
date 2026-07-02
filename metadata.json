@@ -1,0 +1,6 @@
+{
+  "name": "PayFlow",
+  "description": "PayFlow is the leading digital banking and payment platform in Kenya. Experience instant bank transfers, secure virtual cards, smart budgeting, and seamless business payments across Nairobi, Mombasa, Kisumu, Nakuru, Eldoret, and all major Kenyan cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
